@@ -1,1 +1,3 @@
 2ndzxzczfx
+
+this is checking git revert commit hash
